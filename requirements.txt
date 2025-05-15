@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+aiomysql
+langchain
+openai
+faiss-cpu
+httpx
+pydantic
+pytest
+faker
